@@ -1,0 +1,4 @@
+apache-airflow
+pandas
+psycopg2
+google-cloud-bigquery
